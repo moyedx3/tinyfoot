@@ -1,0 +1,4 @@
+/* Import the TinySketch styles */
+@import './tinysketch.css';
+
+/* Add any additional global styles here */ 
